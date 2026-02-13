@@ -1,7 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&&color=0:4E3169,100:a82da8&reversal=false"></img>
 
 ## 👩🏻‍💻 Izabelly Souza
 
-Me chamo Izabelly Souza da Silva, tenho 19 anos e estudo Ciência da Computação na Universidade Federal de Santa Catarina.<br/>
+Me chamo Izabelly Souza da Silva, tenho 19 anos e estudo Ciência da Computação na Universidade Federal de Santa Catarina. Aqui você encontra meus projetos pessoais! Meu foco é o frontend, então sempre que trabalho  em uma aplicação gosto de dar uma atenção especial ao design e à responsividade.<br/>
 
 ### 🤖 Linguagens e Tecnologias
 <div style="display: inline-block">
