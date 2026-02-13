@@ -17,7 +17,7 @@ Me chamo Izabelly Souza da Silva, tenho 19 anos e estudo Ciência da Computaçã
 
 <br/>
 
-### 📊 Estatíticas
+### 📊 Estatísticas
 
 ![Izabelly Souza's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=IzabellyS576&show_icons=true&theme=dracula&rank_icon=github)
 
